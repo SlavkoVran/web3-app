@@ -14,7 +14,7 @@ Before you begin the installation process, you need to complete the following pr
 
 Once you've met these prerequisites, you can proceed with the installation:
 
-1. Clone this repository: `git clone https://github.com/yourusername/yourproject.git`
+1. Clone this repository: `git clone [https://github.com/yourusername/yourproject.git](https://github.com/SlavkoVran/web3-app)`
 2. Navigate to the project directory: `cd yourproject`
 3. Install dependencies: `npm install`
 4. Create a `.env` file in the root of your project and set your OpenSea API key as follows: REACT_APP_OPENSEA_API_KEY = "YOUR_API_KEY"
